@@ -1,5 +1,3 @@
-readme_urna_with_button = """
-
 # Urna Eletrônica
 
 ## Sobre o projeto
