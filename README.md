@@ -1,3 +1,4 @@
+[![Projeto Completo](https://img.shields.io/badge/Projeto-Completo-brightgreen)](#) 
 # Urna Eletrônica
 
 ## Sobre o projeto
