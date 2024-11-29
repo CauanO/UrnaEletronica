@@ -1,4 +1,9 @@
-[![Projeto Completo](https://img.shields.io/badge/Projeto-Completo-brightgreen)](#) 
+## Status do Projeto
+
+[![Projeto Completo](https://img.shields.io/badge/Projeto-Completo-brightgreen)](#)
+
+---
+
 # Urna Eletrônica
 
 ## Sobre o projeto
